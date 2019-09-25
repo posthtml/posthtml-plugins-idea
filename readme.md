@@ -7,3 +7,4 @@
 - [ ] [posthtml-redirect-lowercase-urls](https://github.com/posthtml/posthtml-plugins/issues/18)
 - [ ] [posthtml-icono](https://github.com/posthtml/posthtml-plugins/issues/19)
 - [ ] [posthtml-component](https://github.com/posthtml/posthtml-plugins-idea/issues/7)
+- [ ] [posthtml-check-mixed-content](https://github.com/posthtml/posthtml-plugins-idea/issues/8)
