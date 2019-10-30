@@ -8,3 +8,4 @@
 - [ ] [posthtml-icono](https://github.com/posthtml/posthtml-plugins/issues/19)
 - [ ] [posthtml-component](https://github.com/posthtml/posthtml-plugins-idea/issues/7)
 - [ ] [posthtml-check-mixed-content](https://github.com/posthtml/posthtml-plugins-idea/issues/8)
+- [ ] [posthtml-source-map](https://github.com/posthtml/posthtml-plugins-idea/issues/9)
